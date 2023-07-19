@@ -6,6 +6,6 @@
 //}
 //console.log(sum); 
 
-let num = [5, 2, 6, 3, 8];
-let sum = num.reduce((sum, element) => sum + element, 0);
+let arrayA = [5, 2, 6, 3, 8];
+let sum = arrayA.reduce((sum, element) => sum + element, 0);
 console.log(sum);
