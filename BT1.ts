@@ -1,1 +1,2 @@
-console.log("Nguyễn Thị Ngọc")
+let myName: string = "Nguyễn Thị Ngọc";
+console.log(myName);
